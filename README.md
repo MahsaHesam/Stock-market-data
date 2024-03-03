@@ -1,5 +1,5 @@
 # Stock-market-data Analysis
-**VBA-Challenge
+**VBA-Challenge**
 
 Create a script that loops through all the stocks for one year and outputs the following information:
 
@@ -11,7 +11,7 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock.
 
-Adding functionality:
+**Adding functionality:**
 
 "Greatest % increase", 
 "Greatest % decrease", and 
